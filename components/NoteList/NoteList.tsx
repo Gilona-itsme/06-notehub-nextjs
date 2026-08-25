@@ -1,4 +1,3 @@
-import type { Note } from "../../types/note";
 import css from "./NoteList.module.css";
 import { Note } from "@/lib/api";
 import NoteItem from "../NoteItem/NoteItem";
