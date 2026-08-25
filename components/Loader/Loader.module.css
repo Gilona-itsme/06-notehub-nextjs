@@ -6,7 +6,7 @@
     padding: 12px 16px;
     border-radius: 6px;
     border: 1px solid transparent;
-    color: #084298;
-    background-color: #e8f4fd;
-    border-color: #b6d4fe;
+    background-color: var(--info);
+    border-color: var(--info);
+     color: var(--text-secondary)
 }

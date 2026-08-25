@@ -9,4 +9,5 @@
     color: --var(--error);
     background-color: #fdecea;
     border-color: #f5c2c0;
+    color: var(--text-secondary)
 }
