@@ -6,7 +6,7 @@ interface ErrorMessageProps {
 
 const ErrorMessage = ({ message }: ErrorMessageProps) => {
   return (
-   <p>Could not fetch the list of notes. {message}</p>
+   <p className={css.text}>Could not fetch the list of notes. {message}</p>
 
   );
 }
